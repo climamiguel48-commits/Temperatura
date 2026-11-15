@@ -1,0 +1,443 @@
+[
+  {
+    "objectID": "clase_temperatura.html#resultados-de-aprendizaje",
+    "href": "clase_temperatura.html#resultados-de-aprendizaje",
+    "title": "Régimen de temperatura",
+    "section": "Resultados de aprendizaje",
+    "text": "Resultados de aprendizaje\nAl finalizar esta clase podrás:\n\nExplicar qué es la temperatura y diferenciarla del calor.\nRelacionar la temperatura del aire y del suelo con el balance de energía.\nInterpretar la variación diaria, anual y vertical de la temperatura.\nCalcular temperatura media, amplitud térmica diaria y amplitud térmica anual.\nReconocer las principales causas y consecuencias de una inversión térmica.\nAnalizar los efectos de la temperatura sobre plantas, animales y procesos del suelo.\nExplicar y calcular temperaturas cardinales, grados-día y horas frío.\nAplicar la información térmica a decisiones agronómicas y ambientales."
+  },
+  {
+    "objectID": "clase_temperatura.html#qué-es-la-temperatura",
+    "href": "clase_temperatura.html#qué-es-la-temperatura",
+    "title": "Régimen de temperatura",
+    "section": "1. ¿Qué es la temperatura?",
+    "text": "1. ¿Qué es la temperatura?\nLa temperatura es una magnitud física que expresa el estado térmico de un cuerpo o sustancia. A nivel microscópico, está relacionada con la energía cinética promedio de sus moléculas.\nEn meteorología, la temperatura del aire representa el estado térmico del aire medido a una altura conocida sobre la superficie. La Organización Meteorológica Mundial considera la temperatura del aire cerca de la superficie una variable climática esencial.\n\n\n\n\n\n\n\nTemperatura no es lo mismo que calor\n\n\n\nTemperatura: indica qué tan caliente o frío se encuentra un cuerpo.\nCalor: es energía que se transfiere entre cuerpos debido a una diferencia de temperatura.\n\nEl calor fluye espontáneamente desde el cuerpo con mayor temperatura hacia el cuerpo con menor temperatura."
+  },
+  {
+    "objectID": "clase_temperatura.html#cómo-se-calientan-la-superficie-y-el-aire",
+    "href": "clase_temperatura.html#cómo-se-calientan-la-superficie-y-el-aire",
+    "title": "Régimen de temperatura",
+    "section": "2. ¿Cómo se calientan la superficie y el aire?",
+    "text": "2. ¿Cómo se calientan la superficie y el aire?\nLa principal fuente de energía del sistema climático es la radiación solar. Sin embargo, el aire cercano al suelo no se calienta únicamente por absorber radiación solar de forma directa. Gran parte del calentamiento ocurre desde la superficie hacia la atmósfera.\nEl proceso puede resumirse así:\n\n\n\n\n\nflowchart LR\n    A[Radiación solar] --&gt; B[Superficie terrestre]\n    B --&gt; C[Calentamiento del suelo y la vegetación]\n    C --&gt; D[Transferencia de calor sensible al aire]\n    C --&gt; E[Evaporación y transpiración]\n    C --&gt; F[Flujo de calor hacia el suelo]\n    B --&gt; G[Emisión de radiación de onda larga]"
+  },
+  {
+    "objectID": "clase_temperatura.html#medición-de-la-temperatura-del-aire",
+    "href": "clase_temperatura.html#medición-de-la-temperatura-del-aire",
+    "title": "Régimen de temperatura",
+    "section": "3. Medición de la temperatura del aire",
+    "text": "3. Medición de la temperatura del aire\nLa temperatura del aire debe medirse de manera que el sensor represente al aire y no el calentamiento directo producido por la radiación solar.\nPor ello, el instrumento se instala normalmente:\n\ndentro de una garita o abrigo meteorológico, o bajo un protector de radiación;\nen un lugar ventilado;\nsobre una superficie representativa;\nlejos de paredes, pavimento, maquinaria u otras fuentes artificiales de calor;\na una altura estandarizada sobre el terreno.\n\nLos instrumentos más frecuentes son:\n\ntermómetro de máxima;\ntermómetro de mínima;\ntermógrafo;\nsensores electrónicos y registradores automáticos."
+  },
+  {
+    "objectID": "clase_temperatura.html#variación-diaria-de-la-temperatura",
+    "href": "clase_temperatura.html#variación-diaria-de-la-temperatura",
+    "title": "Régimen de temperatura",
+    "section": "4. Variación diaria de la temperatura",
+    "text": "4. Variación diaria de la temperatura\nLa temperatura del aire no alcanza sus valores extremos al mismo tiempo que la radiación solar.\nEn un día despejado típico:\n\nla temperatura mínima ocurre cerca de la salida del Sol;\ndespués del amanecer, la superficie comienza a ganar energía y la temperatura aumenta;\nel máximo suele presentarse algunas horas después del mediodía solar;\ndurante la tarde y la noche, la superficie pierde energía y la temperatura disminuye.\n\n\n\nFigure 1: Ejemplo conceptual del ciclo diario de la temperatura del aire."
+  },
+  {
+    "objectID": "clase_temperatura.html#variación-anual-de-la-temperatura",
+    "href": "clase_temperatura.html#variación-anual-de-la-temperatura",
+    "title": "Régimen de temperatura",
+    "section": "5. Variación anual de la temperatura",
+    "text": "5. Variación anual de la temperatura\nLa temperatura también cambia a lo largo del año debido principalmente a la variación estacional de la radiación solar recibida.\nLa magnitud de esa variación depende de:\n\nlatitud;\naltitud;\ndistancia al mar;\ncirculación atmosférica;\nnubosidad;\ncaracterísticas locales del relieve."
+  },
+  {
+    "objectID": "clase_temperatura.html#variación-de-la-temperatura-con-la-altura",
+    "href": "clase_temperatura.html#variación-de-la-temperatura-con-la-altura",
+    "title": "Régimen de temperatura",
+    "section": "6. Variación de la temperatura con la altura",
+    "text": "6. Variación de la temperatura con la altura\nEn la troposfera, la temperatura suele disminuir con la altitud. Esta disminución se denomina gradiente térmico vertical o gradiente altotérmico.\nComo aproximación general puede considerarse una disminución cercana a:\n\\[\n0.6\\ ^\\circ\\mathrm{C}\\ \\text{por cada}\\ 100\\ \\mathrm{m}\n\\]\nSin embargo, este valor no es constante. Cambia según la humedad, la estabilidad atmosférica, la hora del día, la estación y las características regionales."
+  },
+  {
+    "objectID": "clase_temperatura.html#inversiones-térmicas",
+    "href": "clase_temperatura.html#inversiones-térmicas",
+    "title": "Régimen de temperatura",
+    "section": "7. Inversiones térmicas",
+    "text": "7. Inversiones térmicas\nEn condiciones normales, la temperatura disminuye con la altura. Existe una inversión térmica cuando, dentro de una capa de la atmósfera, la temperatura aumenta con la altura.\n\n\n\n\n\nflowchart TB\n    A[Situación normal] --&gt; B[El aire es más cálido cerca de la superficie]\n    B --&gt; C[La temperatura disminuye con la altura]\n    D[Inversión térmica] --&gt; E[Aire frío cerca de la superficie]\n    E --&gt; F[Aire más cálido sobre la capa fría]"
+  },
+  {
+    "objectID": "clase_temperatura.html#temperatura-del-suelo",
+    "href": "clase_temperatura.html#temperatura-del-suelo",
+    "title": "Régimen de temperatura",
+    "section": "8. Temperatura del suelo",
+    "text": "8. Temperatura del suelo\nLa temperatura del suelo controla numerosos procesos físicos, químicos y biológicos.\nEntre sus efectos se encuentran:\n\ngerminación y emergencia;\ncrecimiento de raíces;\nabsorción de agua y nutrientes;\nactividad microbiana;\ndescomposición de residuos;\nmineralización de la materia orgánica;\nevaporación;\nvolatilización de compuestos;\nmeteorización física."
+  },
+  {
+    "objectID": "clase_temperatura.html#efectos-de-la-temperatura-en-los-sistemas-agroambientales",
+    "href": "clase_temperatura.html#efectos-de-la-temperatura-en-los-sistemas-agroambientales",
+    "title": "Régimen de temperatura",
+    "section": "9. Efectos de la temperatura en los sistemas agroambientales",
+    "text": "9. Efectos de la temperatura en los sistemas agroambientales\n\nPlantasAnimalesSuelo y microorganismos\n\n\nLa temperatura afecta:\n\ngerminación;\nemergencia;\nexpansión foliar;\nfotosíntesis;\nrespiración;\nfloración;\nformación y calidad de frutos;\nduración del ciclo;\nsenescencia;\nabsorción y transporte de agua y nutrientes;\nsupervivencia frente a frío o calor extremos.\n\nUna temperatura elevada puede acelerar el desarrollo, pero no necesariamente aumentar el rendimiento. Un ciclo demasiado rápido puede reducir el tiempo disponible para acumular biomasa o llenar granos y frutos.\n\n\nLa temperatura influye en:\n\nconsumo de alimento;\nconsumo de agua;\nganancia de peso;\nfertilidad;\nproducción de leche, carne o huevos;\ncomportamiento;\nrespiración y sudoración;\nmortalidad en situaciones extremas.\n\nEl efecto depende también de la humedad, radiación, viento, sombra, raza, edad, estado productivo y aclimatación.\n\n\nLa temperatura regula:\n\nactividad microbiana;\ndescomposición;\nmineralización;\nnitrificación;\ncrecimiento de raíces;\ndifusión de gases;\nevaporación;\ndisponibilidad temporal de nutrientes.\n\nTemperaturas muy bajas ralentizan la mayoría de los procesos biológicos. Temperaturas excesivas pueden dañar raíces y microorganismos, especialmente cerca de la superficie."
+  },
+  {
+    "objectID": "clase_temperatura.html#temperaturas-cardinales",
+    "href": "clase_temperatura.html#temperaturas-cardinales",
+    "title": "Régimen de temperatura",
+    "section": "10. Temperaturas cardinales",
+    "text": "10. Temperaturas cardinales\nPara cada especie y proceso biológico pueden definirse tres temperaturas cardinales:\n\nTemperatura base o mínima (\\(T_b\\)): por debajo de ella el desarrollo es muy lento o se detiene.\nTemperatura óptima (\\(T_{opt}\\)): rango en el que la tasa del proceso es máxima.\nTemperatura máxima (\\(T_{max}\\)): por encima de ella el proceso disminuye fuertemente o cesa.\n\n\n\nFigure 5: Respuesta conceptual de la tasa de desarrollo a la temperatura."
+  },
+  {
+    "objectID": "clase_temperatura.html#grados-día-o-tiempo-térmico",
+    "href": "clase_temperatura.html#grados-día-o-tiempo-térmico",
+    "title": "Régimen de temperatura",
+    "section": "11. Grados-día o tiempo térmico",
+    "text": "11. Grados-día o tiempo térmico\nLos grados-día representan la acumulación de calor útil para el desarrollo de una planta, insecto u otro organismo.\nLa idea central es que el desarrollo biológico depende más del calor acumulado que del número de días del calendario."
+  },
+  {
+    "objectID": "clase_temperatura.html#horas-frío-y-acumulación-de-frío",
+    "href": "clase_temperatura.html#horas-frío-y-acumulación-de-frío",
+    "title": "Régimen de temperatura",
+    "section": "12. Horas frío y acumulación de frío",
+    "text": "12. Horas frío y acumulación de frío\nLas especies frutales caducifolias entran en reposo durante la estación fría. Para salir adecuadamente de ese estado requieren acumular una determinada cantidad de frío.\nEl requerimiento depende de:\n\nespecie;\ncultivar;\nestado de las yemas;\npatrón térmico durante el invierno;\ninteracción entre frío acumulado y calor posterior.\n\n\nMétodo de horas fríoModelo de UtahModelo dinámico\n\n\nCuenta el número de horas con temperatura por debajo de un umbral, con frecuencia cercano a 7 °C o 7,2 °C.\nEs fácil de calcular, pero considera todas las horas frías como equivalentes y no representa bien el efecto de temperaturas cálidas intercaladas.\n\n\nAsigna diferentes eficiencias a distintos rangos de temperatura. Algunas temperaturas aportan unidades de frío y las temperaturas altas pueden restarlas.\nPuede funcionar bien en ciertos climas, pero presentar dificultades en inviernos suaves con tardes cálidas.\n\n\nRepresenta la acumulación de frío como un proceso de dos etapas y expresa el resultado en porciones de frío.\nSuele comportarse mejor en climas de inviernos variables o relativamente cálidos, aunque su cálculo es más complejo.\n\n\n\n\n\n\n\n\n\n\nInterpretación correcta\n\n\nNo debe compararse directamente un requerimiento expresado en horas frío con otro expresado en unidades Utah o porciones de frío. Cada modelo tiene su propia escala."
+  },
+  {
+    "objectID": "clase_temperatura.html#confort-térmico-y-estrés-por-calor-en-animales",
+    "href": "clase_temperatura.html#confort-térmico-y-estrés-por-calor-en-animales",
+    "title": "Régimen de temperatura",
+    "section": "13. Confort térmico y estrés por calor en animales",
+    "text": "13. Confort térmico y estrés por calor en animales\nEl confort térmico corresponde al rango de condiciones ambientales en el que el animal mantiene su temperatura corporal con un esfuerzo mínimo de termorregulación.\nCuando aumenta la carga térmica, el animal puede responder mediante:\n\nbúsqueda de sombra;\naumento del consumo de agua;\nreducción del consumo de alimento;\nincremento de la frecuencia respiratoria;\nsudoración;\ndisminución de la actividad;\nreducción de la producción."
+  },
+  {
+    "objectID": "clase_temperatura.html#temperatura-estabilidad-atmosférica-y-contaminación",
+    "href": "clase_temperatura.html#temperatura-estabilidad-atmosférica-y-contaminación",
+    "title": "Régimen de temperatura",
+    "section": "14. Temperatura, estabilidad atmosférica y contaminación",
+    "text": "14. Temperatura, estabilidad atmosférica y contaminación\nLa dispersión de contaminantes depende de:\n\nestabilidad atmosférica;\nperfil vertical de temperatura;\nvelocidad y dirección del viento;\naltura de la capa de mezcla;\ntopografía;\ncaracterísticas de la fuente emisora."
+  },
+  {
+    "objectID": "clase_temperatura.html#temperatura-y-cambio-climático",
+    "href": "clase_temperatura.html#temperatura-y-cambio-climático",
+    "title": "Régimen de temperatura",
+    "section": "15. Temperatura y cambio climático",
+    "text": "15. Temperatura y cambio climático\nEl Sexto Informe de Evaluación del IPCC concluyó que las actividades humanas han causado inequívocamente el calentamiento global. La temperatura media de la superficie durante 2011–2020 fue aproximadamente 1,1 °C superior a la de 1850–1900.\nEntre los riesgos agroambientales asociados al calentamiento se encuentran:\n\nmayor frecuencia e intensidad de extremos cálidos;\ncambios en la duración de las estaciones de crecimiento;\nadelanto de fases fenológicas;\nmayor demanda evaporativa;\nestrés térmico en cultivos y ganado;\nmodificación de la distribución de plagas y enfermedades;\nmenor acumulación de frío en frutales caducifolios;\nmayor riesgo de incendios en regiones vulnerables;\ninteracción entre calor, sequía y degradación del suelo.\n\n\n\n\n\n\n\n\nEl efecto no es uniforme\n\n\nUn aumento de temperatura puede extender temporalmente la estación de crecimiento en algunos ambientes fríos. Sin embargo, en zonas que ya se encuentran cerca del óptimo térmico de los cultivos, un calentamiento adicional puede reducir rendimiento, calidad y estabilidad productiva."
+  },
+  {
+    "objectID": "clase_temperatura.html#integración-de-conceptos",
+    "href": "clase_temperatura.html#integración-de-conceptos",
+    "title": "Régimen de temperatura",
+    "section": "16. Integración de conceptos",
+    "text": "16. Integración de conceptos\n\n\n\n\n\nflowchart TD\n    A[Radiación y balance de energía] --&gt; B[Temperatura del aire y del suelo]\n    B --&gt; C[Variación diaria]\n    B --&gt; D[Variación anual]\n    B --&gt; E[Variación con la altura]\n    C --&gt; F[ATD y extremos diarios]\n    D --&gt; G[ATA y estacionalidad]\n    E --&gt; H[Gradiente e inversiones]\n    B --&gt; I[Procesos biológicos]\n    I --&gt; J[Temperaturas cardinales]\n    I --&gt; K[Grados-día]\n    I --&gt; L[Horas frío]\n    I --&gt; M[Confort animal]\n    H --&gt; N[Heladas y contaminación]"
+  },
+  {
+    "objectID": "clase_temperatura.html#síntesis",
+    "href": "clase_temperatura.html#síntesis",
+    "title": "Régimen de temperatura",
+    "section": "17. Síntesis",
+    "text": "17. Síntesis\n\nLa temperatura expresa el estado térmico, mientras que el calor es energía en transferencia.\nLa superficie terrestre absorbe energía y calienta el aire principalmente mediante intercambios de calor sensible y latente.\nLa temperatura presenta ciclos diarios, anuales y verticales.\nLa ATD se calcula con la máxima y mínima del día; la ATA compara el mes más cálido con el más frío.\nNubosidad, mar, viento, humedad y topografía modifican los extremos térmicos.\nEn una inversión térmica, la temperatura aumenta con la altura dentro de una capa, lo que puede favorecer heladas y acumulación de contaminantes.\nLa temperatura del suelo regula germinación, raíces, microorganismos y disponibilidad de nutrientes.\nLas temperaturas cardinales describen los límites y el óptimo de los procesos biológicos.\nLos grados-día representan calor acumulado para el desarrollo; las horas frío representan requerimientos de reposo en frutales caducifolios.\nLa temperatura debe interpretarse junto con humedad, radiación, viento, agua disponible y estado biológico."
+  },
+  {
+    "objectID": "clase_temperatura.html#fuentes-y-lecturas-recomendadas",
+    "href": "clase_temperatura.html#fuentes-y-lecturas-recomendadas",
+    "title": "Régimen de temperatura",
+    "section": "18. Fuentes y lecturas recomendadas",
+    "text": "18. Fuentes y lecturas recomendadas\n\nMaterial base: Puche, M. Climatología Agroambiental. Clase 5: Temperatura. Universidad Central de Venezuela.\nOrganización Meteorológica Mundial: temperatura del aire cerca de la superficie\nOrganización Meteorológica Mundial: temperatura superficial como variable climática esencial\nFAO: desarrollo de las plantas y tiempo térmico\nIPCC: Informe de Síntesis del Sexto Informe de Evaluación\nThom, E. C. (1959). The discomfort index. Weatherwise.\n\n\n\n\n\n\n\n\nPara continuar\n\n\nLa aplicación natural de esta clase es una práctica con datos diarios de temperatura. Allí pueden calcularse temperatura media, ATD, ATA, grados-día, número de días sobre un umbral de calor y número de días bajo un umbral de frío."
+  },
+  {
+    "objectID": "index.html#cómo-usar-esta-clase",
+    "href": "index.html#cómo-usar-esta-clase",
+    "title": "Régimen de temperatura",
+    "section": "¿Cómo usar esta clase?",
+    "text": "¿Cómo usar esta clase?\nEsta clase está diseñada para avanzar de lo general a lo aplicado:\n\nPrimero se explica qué es la temperatura y por qué no es lo mismo que calor.\nLuego se revisa cómo se calientan la superficie, el aire y el suelo.\nDespués se analizan las variaciones diaria, anual y vertical.\nFinalmente se aplican los conceptos a cultivos, animales, suelo, confort térmico y cambio climático.\n\n\n\n\n\n\n\n\nIdea de estudio\n\n\nNo memorices fórmulas sueltas. Pregúntate siempre: ¿qué proceso físico o biológico está representando esta variable?"
+  },
+  {
+    "objectID": "index.html#resultados-de-aprendizaje",
+    "href": "index.html#resultados-de-aprendizaje",
+    "title": "Régimen de temperatura",
+    "section": "Resultados de aprendizaje",
+    "text": "Resultados de aprendizaje\nAl finalizar esta clase podrás:\n\nExplicar qué es la temperatura y diferenciarla del calor.\nRelacionar la temperatura del aire y del suelo con el balance de energía.\nInterpretar la variación diaria, anual y vertical de la temperatura.\nCalcular temperatura media, amplitud térmica diaria y amplitud térmica anual.\nReconocer causas y consecuencias de una inversión térmica.\nAnalizar efectos de la temperatura sobre plantas, animales y suelo.\nExplicar temperaturas cardinales, grados-día y horas frío.\nAplicar información térmica a decisiones agronómicas y ambientales."
+  },
+  {
+    "objectID": "index.html#qué-es-la-temperatura",
+    "href": "index.html#qué-es-la-temperatura",
+    "title": "Régimen de temperatura",
+    "section": "1. ¿Qué es la temperatura?",
+    "text": "1. ¿Qué es la temperatura?\nLa temperatura es una magnitud física que expresa el estado térmico de un cuerpo o sustancia.\nA nivel microscópico, está relacionada con la energía cinética promedio de sus moléculas.\nEn meteorología, la temperatura del aire representa el estado térmico del aire medido a una altura conocida sobre la superficie.\n\n\n\n\n\n\n\nTemperatura no es lo mismo que calor\n\n\n\nTemperatura: indica qué tan caliente o frío se encuentra un cuerpo.\nCalor: es energía que se transfiere entre cuerpos por una diferencia de temperatura.\n\nEl calor fluye espontáneamente desde el cuerpo más caliente hacia el más frío."
+  },
+  {
+    "objectID": "index.html#por-qué-importa-en-agroambientes",
+    "href": "index.html#por-qué-importa-en-agroambientes",
+    "title": "Régimen de temperatura",
+    "section": "1.1 ¿Por qué importa en agroambientes?",
+    "text": "1.1 ¿Por qué importa en agroambientes?\nLa temperatura influye directamente en:\n\ngerminación y emergencia;\nfotosíntesis, respiración y transpiración;\ncrecimiento y desarrollo fenológico;\nabsorción de agua y nutrientes;\nevaporación y evapotranspiración;\nactividad de microorganismos del suelo;\nreproducción y productividad animal;\nheladas, olas de calor y estrés térmico;\ndispersión de contaminantes.\n\n\n\n\n\n\n\n\nPunto clave\n\n\nLa temperatura rara vez actúa sola. En agricultura se debe interpretar junto con radiación, humedad, viento, agua disponible y estado del cultivo."
+  },
+  {
+    "objectID": "index.html#cómo-se-calientan-la-superficie-y-el-aire",
+    "href": "index.html#cómo-se-calientan-la-superficie-y-el-aire",
+    "title": "Régimen de temperatura",
+    "section": "2. ¿Cómo se calientan la superficie y el aire?",
+    "text": "2. ¿Cómo se calientan la superficie y el aire?\nLa principal fuente de energía del sistema climático es la radiación solar.\nSin embargo, el aire cercano al suelo no se calienta solamente por absorber radiación solar directa.\nGran parte del calentamiento ocurre desde la superficie hacia la atmósfera.\n\n\n\n\n\nflowchart LR\n    A[Radiación solar] --&gt; B[Superficie terrestre]\n    B --&gt; C[Calentamiento del suelo \n    y la vegetación]\n    C --&gt; D[Calor sensible hacia \n    el aire]\n    C --&gt; E[Evaporación y \n    transpiración]\n    C --&gt; F[Flujo de calor \n    hacia el suelo]\n    B --&gt; G[Emisión de onda \n    larga]"
+  },
+  {
+    "objectID": "index.html#balance-energético-de-la-superficie",
+    "href": "index.html#balance-energético-de-la-superficie",
+    "title": "Régimen de temperatura",
+    "section": "2.1 Balance energético de la superficie",
+    "text": "2.1 Balance energético de la superficie\nUna forma simplificada del balance de energía es:\n\\[R_n = H + \\lambda E + G + \\Delta S\\]\nDonde:\n\n\\(R_n\\): radiación neta;\n\\(H\\): flujo de calor sensible hacia el aire;\n\\(\\lambda E\\): flujo de calor latente asociado con evaporación y transpiración;\n\\(G\\): flujo de calor hacia o desde el suelo;\n\\(\\Delta S\\): cambio en el almacenamiento de energía.\n\n\n\n\n\n\n\n\nIdea clave\n\n\nLa temperatura es una consecuencia del balance de energía. Dos superficies con la misma radiación pueden tener temperaturas distintas si difieren en humedad, cobertura vegetal, color o capacidad térmica."
+  },
+  {
+    "objectID": "index.html#superficie-seca-versus-superficie-húmeda",
+    "href": "index.html#superficie-seca-versus-superficie-húmeda",
+    "title": "Régimen de temperatura",
+    "section": "2.2 Superficie seca versus superficie húmeda",
+    "text": "2.2 Superficie seca versus superficie húmeda\nUna superficie húmeda suele calentarse menos durante el día porque parte de la energía disponible se usa en evaporar agua.\nEn cambio, una superficie seca transforma más energía en calor sensible, elevando la temperatura del suelo y del aire cercano.\n\n\n\n\n\n\n\n\nSuperficie\nUso dominante de la energía\nResultado esperado\n\n\n\n\nHúmeda y vegetada\nCalor latente\nMenor calentamiento\n\n\nSeca y descubierta\nCalor sensible\nMayor calentamiento\n\n\n\n\n\n\n\n\n\n\nNo confundir\n\n\nMás radiación solar no siempre significa el mismo aumento de temperatura. Todo depende de cómo se reparte la energía."
+  },
+  {
+    "objectID": "index.html#medición-de-la-temperatura-del-aire",
+    "href": "index.html#medición-de-la-temperatura-del-aire",
+    "title": "Régimen de temperatura",
+    "section": "3. Medición de la temperatura del aire",
+    "text": "3. Medición de la temperatura del aire\nLa temperatura del aire debe medirse de forma que el sensor represente al aire, no al calentamiento directo por radiación solar.\nPor ello, el instrumento se instala normalmente:\n\nbajo abrigo meteorológico o protector de radiación;\nen un sitio ventilado;\nsobre una superficie representativa;\nlejos de paredes, pavimento o maquinaria;\na una altura estandarizada sobre el terreno.\n\nInstrumentos frecuentes:\n\ntermómetro de máxima;\ntermómetro de mínima;\ntermógrafo;\nsensores electrónicos y registradores automáticos."
+  },
+  {
+    "objectID": "index.html#temperaturas-máxima-mínima-y-media",
+    "href": "index.html#temperaturas-máxima-mínima-y-media",
+    "title": "Régimen de temperatura",
+    "section": "3.1 Temperaturas máxima, mínima y media",
+    "text": "3.1 Temperaturas máxima, mínima y media\n\nTemperatura máxima (\\(T_{max}\\)): mayor temperatura registrada durante el día.\nTemperatura mínima (\\(T_{min}\\)): menor temperatura registrada durante el día.\nTemperatura media diaria (\\(T_{media}\\)): valor representativo del estado térmico promedio del día.\n\nCuando solo se dispone de máxima y mínima:\n\\[T_{media} = \\frac{T_{max}+T_{min}}{2}\\]\n\n\n\n\n\n\n\nEs una aproximación\n\n\nLa media calculada con \\(T_{max}\\) y \\(T_{min}\\) puede diferir de la media calculada con 24 observaciones horarias."
+  },
+  {
+    "objectID": "index.html#ejemplo-rápido",
+    "href": "index.html#ejemplo-rápido",
+    "title": "Régimen de temperatura",
+    "section": "3.2 Ejemplo rápido",
+    "text": "3.2 Ejemplo rápido\nSi durante un día se registran:\n\n\\(T_{max}=35\\ ^\\circ\\mathrm{C}\\)\n\\(T_{min}=19\\ ^\\circ\\mathrm{C}\\)\n\nEntonces:\n\\[T_{media}=\\frac{35+19}{2}=27\\ ^\\circ\\mathrm{C}\\]\nY la amplitud térmica diaria será:\n\\[ATD=35-19=16\\ ^\\circ\\mathrm{C}\\]\n\n\n\n\n\n\n\nInterpretación\n\n\nLa media resume el estado térmico del día; la amplitud térmica indica cuánto varió la temperatura entre el mínimo y el máximo."
+  },
+  {
+    "objectID": "index.html#variación-diaria-de-la-temperatura",
+    "href": "index.html#variación-diaria-de-la-temperatura",
+    "title": "Régimen de temperatura",
+    "section": "4. Variación diaria de la temperatura",
+    "text": "4. Variación diaria de la temperatura\nEn un día despejado típico:\n\nla mínima ocurre cerca de la salida del Sol;\ndespués del amanecer, la superficie gana energía;\nla máxima suele ocurrir algunas horas después del mediodía solar;\ndurante la tarde y la noche, la superficie pierde energía.\n\n\n\nFigure 1: Ejemplo conceptual del ciclo diario de la temperatura del aire."
+  },
+  {
+    "objectID": "index.html#amplitud-térmica-diaria",
+    "href": "index.html#amplitud-térmica-diaria",
+    "title": "Régimen de temperatura",
+    "section": "4.1 Amplitud térmica diaria",
+    "text": "4.1 Amplitud térmica diaria\nLa amplitud térmica diaria (ATD) es:\n\\[ATD=T_{max}-T_{min}\\]\nLa ATD depende principalmente de:\n\nnubosidad;\ncercanía al mar;\nhumedad del suelo;\ncobertura vegetal;\nviento;\ntopografía.\n\n\n\n\n\n\n\n\nLectura agronómica\n\n\nUna ATD elevada puede indicar días muy cálidos y noches frías. Esto puede afectar respiración nocturna, maduración, acumulación de azúcares y riesgo de estrés térmico."
+  },
+  {
+    "objectID": "index.html#nubosidad-y-amplitud-térmica-diaria",
+    "href": "index.html#nubosidad-y-amplitud-térmica-diaria",
+    "title": "Régimen de temperatura",
+    "section": "4.2 Nubosidad y amplitud térmica diaria",
+    "text": "4.2 Nubosidad y amplitud térmica diaria\nLas nubes reducen la amplitud térmica diaria:\n\nde día reflejan parte de la radiación solar;\nde noche reducen la pérdida de radiación de onda larga.\n\n\n\nFigure 2: Efecto conceptual de la nubosidad sobre la temperatura diaria."
+  },
+  {
+    "objectID": "index.html#mar-humedad-viento-y-topografía",
+    "href": "index.html#mar-humedad-viento-y-topografía",
+    "title": "Régimen de temperatura",
+    "section": "4.3 Mar, humedad, viento y topografía",
+    "text": "4.3 Mar, humedad, viento y topografía\nCercanía al mar: el agua cambia lentamente de temperatura, por eso las zonas costeras suelen tener menor amplitud térmica diaria.\nHumedad del suelo: un suelo húmedo usa más energía en evaporación y se calienta menos.\nViento: mezcla el aire y puede reducir extremos térmicos locales.\nTopografía: el aire frío puede acumularse en fondos de valle durante noches despejadas y calmas.\n\n\n\n\n\n\n\nAplicación agronómica\n\n\nPara evaluar riesgo de helada no basta con mirar la altitud. Una depresión puede ser más fría que una ladera cercana durante noches con inversión térmica."
+  },
+  {
+    "objectID": "index.html#variación-anual-de-la-temperatura",
+    "href": "index.html#variación-anual-de-la-temperatura",
+    "title": "Régimen de temperatura",
+    "section": "5. Variación anual de la temperatura",
+    "text": "5. Variación anual de la temperatura\nLa temperatura también cambia a lo largo del año por la variación estacional de la radiación solar.\nLa magnitud de esa variación depende de:\n\nlatitud;\naltitud;\ndistancia al mar;\ncirculación atmosférica;\nnubosidad;\nrelieve local.\n\nLa amplitud térmica anual (ATA) es:\n\\[ATA=T_{mes\\ más\\ cálido}-T_{mes\\ más\\ frío}\\]"
+  },
+  {
+    "objectID": "index.html#atd-y-ata-no-son-lo-mismo",
+    "href": "index.html#atd-y-ata-no-son-lo-mismo",
+    "title": "Régimen de temperatura",
+    "section": "5.1 ATD y ATA no son lo mismo",
+    "text": "5.1 ATD y ATA no son lo mismo\n\n\n\nIndicador\nQué compara\nEscala temporal\n\n\n\n\nATD\n\\(T_{max}\\) y \\(T_{min}\\) de un día\nDiaria\n\n\nATA\nmes más cálido y mes más frío\nAnual\n\n\n\n\n\n\n\n\n\n\nError común\n\n\nNo se debe usar la temperatura máxima y mínima de un día para calcular la amplitud térmica anual. Para ATA se usan temperaturas medias mensuales."
+  },
+  {
+    "objectID": "index.html#clima-tropical-versus-mediterráneo",
+    "href": "index.html#clima-tropical-versus-mediterráneo",
+    "title": "Régimen de temperatura",
+    "section": "5.2 Clima tropical versus mediterráneo",
+    "text": "5.2 Clima tropical versus mediterráneo\n\n\nFigure 3: Comparación conceptual de temperatura mensual en clima tropical y mediterráneo."
+  },
+  {
+    "objectID": "index.html#régimen-térmico-intertropical",
+    "href": "index.html#régimen-térmico-intertropical",
+    "title": "Régimen de temperatura",
+    "section": "5.3 Régimen térmico intertropical",
+    "text": "5.3 Régimen térmico intertropical\nEn tierras bajas intertropicales suele observarse:\n\ntemperatura media mensual relativamente alta;\namplitud térmica anual pequeña;\nradiación solar disponible durante todo el año;\nestaciones térmicas menos contrastadas que en latitudes medias.\n\n\n\n\n\n\n\n\nIdea importante\n\n\nEn muchas localidades tropicales, la amplitud térmica diaria puede ser mayor que la amplitud térmica anual."
+  },
+  {
+    "objectID": "index.html#variación-de-la-temperatura-con-la-altura",
+    "href": "index.html#variación-de-la-temperatura-con-la-altura",
+    "title": "Régimen de temperatura",
+    "section": "6. Variación de la temperatura con la altura",
+    "text": "6. Variación de la temperatura con la altura\nEn la troposfera, la temperatura suele disminuir con la altitud.\nEsta disminución se denomina gradiente térmico vertical o gradiente altotérmico.\nComo aproximación general:\n\\[0.6\\ ^\\circ\\mathrm{C}\\ \\text{por cada}\\ 100\\ \\mathrm{m}\\]\nPero este valor cambia con:\n\nhumedad atmosférica;\nestabilidad;\nhora del día;\nestación;\ntopografía;\ncondiciones regionales."
+  },
+  {
+    "objectID": "index.html#ejemplo-de-gradiente-altotérmico",
+    "href": "index.html#ejemplo-de-gradiente-altotérmico",
+    "title": "Régimen de temperatura",
+    "section": "6.1 Ejemplo de gradiente altotérmico",
+    "text": "6.1 Ejemplo de gradiente altotérmico\nUna localidad está a 500 m y registra 24 °C.\nSe desea estimar la temperatura a 1 500 m usando un gradiente de 0,6 °C por cada 100 m.\nDiferencia de altura:\n\\[1500-500=1000\\ \\mathrm{m}\\]\nDisminución estimada:\n\\[\\frac{1000}{100}\\times 0.6=6\\ ^\\circ\\mathrm{C}\\]\nTemperatura estimada:\n\\[24-6=18\\ ^\\circ\\mathrm{C}\\]"
+  },
+  {
+    "objectID": "index.html#inversiones-térmicas",
+    "href": "index.html#inversiones-térmicas",
+    "title": "Régimen de temperatura",
+    "section": "7. Inversiones térmicas",
+    "text": "7. Inversiones térmicas\nExiste una inversión térmica cuando, dentro de una capa de la atmósfera, la temperatura aumenta con la altura.\n\n\n\n\n\nflowchart TB\n    A[Condición normal] --&gt; B[El aire es más cálido \n    cerca de la superficie]\n    B --&gt; C[La temperatura disminuye \n    con la altura]\n    D[Inversión térmica] --&gt; E[Aire frío cerca \n    de la superficie]\n    E --&gt; F[Aire más cálido \n    sobre la capa fría]\n\n\n\n\n\n\n\n\n\n\n\n\n\nConsecuencia\n\n\nLa inversión térmica limita la mezcla vertical del aire. Esto puede favorecer heladas, acumulación de contaminantes y deriva de aplicaciones agrícolas."
+  },
+  {
+    "objectID": "index.html#tipos-principales-de-inversión",
+    "href": "index.html#tipos-principales-de-inversión",
+    "title": "Régimen de temperatura",
+    "section": "7.1 Tipos principales de inversión",
+    "text": "7.1 Tipos principales de inversión\nPor radiación: se forma en noches despejadas, secas y con poco viento. Es clave para heladas.\nPor subsidencia: ocurre cuando una masa de aire desciende, se comprime y se calienta.\nPor advección: ocurre cuando aire cálido se desplaza sobre una superficie fría o aire frío se mueve bajo una masa cálida.\nFrontal: aparece en el contacto entre masas de aire diferentes.\n\n\n\n\n\n\n\nAplicación agrícola\n\n\nDurante una inversión térmica, gotas finas o vapores pueden permanecer suspendidos y desplazarse horizontalmente. No es buen momento para aplicar productos sensibles a deriva."
+  },
+  {
+    "objectID": "index.html#temperatura-del-suelo",
+    "href": "index.html#temperatura-del-suelo",
+    "title": "Régimen de temperatura",
+    "section": "8. Temperatura del suelo",
+    "text": "8. Temperatura del suelo\nLa temperatura del suelo controla:\n\ngerminación y emergencia;\ncrecimiento de raíces;\nabsorción de agua y nutrientes;\nactividad microbiana;\ndescomposición de residuos;\nmineralización de materia orgánica;\nevaporación;\nvolatilización de compuestos;\nmeteorización física.\n\nDepende de radiación, color, humedad, textura, cobertura vegetal, profundidad, pendiente y temperatura del aire."
+  },
+  {
+    "objectID": "index.html#temperatura-del-suelo-y-profundidad",
+    "href": "index.html#temperatura-del-suelo-y-profundidad",
+    "title": "Régimen de temperatura",
+    "section": "8.1 Temperatura del suelo y profundidad",
+    "text": "8.1 Temperatura del suelo y profundidad\nA mayor profundidad:\n\ndisminuye la amplitud térmica;\nse retrasa la máxima y la mínima;\nla temperatura se vuelve más estable.\n\n\n\nFigure 4: Variación conceptual de temperatura del suelo a diferentes profundidades."
+  },
+  {
+    "objectID": "index.html#efectos-en-plantas-animales-y-suelo",
+    "href": "index.html#efectos-en-plantas-animales-y-suelo",
+    "title": "Régimen de temperatura",
+    "section": "9. Efectos en plantas, animales y suelo",
+    "text": "9. Efectos en plantas, animales y suelo\n\nPlantasAnimalesSuelo\n\n\nLa temperatura afecta germinación, emergencia, fotosíntesis, respiración, floración, duración del ciclo, calidad y rendimiento.\nUna temperatura alta puede acelerar el desarrollo, pero no siempre aumenta rendimiento.\n\n\nInfluye en consumo de alimento, consumo de agua, ganancia de peso, fertilidad, producción, respiración, sudoración y mortalidad.\n\n\nRegula actividad microbiana, descomposición, mineralización, nitrificación, evaporación y disponibilidad de nutrientes."
+  },
+  {
+    "objectID": "index.html#temperaturas-cardinales",
+    "href": "index.html#temperaturas-cardinales",
+    "title": "Régimen de temperatura",
+    "section": "10. Temperaturas cardinales",
+    "text": "10. Temperaturas cardinales\nPara cada especie o proceso pueden definirse tres temperaturas cardinales:\n\nTemperatura base o mínima (\\(T_b\\)): por debajo de ella el desarrollo se detiene o es muy lento.\nTemperatura óptima (\\(T_{opt}\\)): rango de máxima tasa del proceso.\nTemperatura máxima (\\(T_{max}\\)): por encima de ella el proceso disminuye o cesa.\n\n\n\nFigure 5: Respuesta conceptual de la tasa de desarrollo a la temperatura."
+  },
+  {
+    "objectID": "index.html#rangos-orientativos",
+    "href": "index.html#rangos-orientativos",
+    "title": "Régimen de temperatura",
+    "section": "10.1 Rangos orientativos",
+    "text": "10.1 Rangos orientativos\n\n\n\n\n\n\n\n\n\nGrupo de cultivos\nTemperatura base\nÓptimo aproximado\nMáxima aproximada\n\n\n\n\nCereales de clima templado\n0–5 °C\n20–30 °C\n35–40 °C\n\n\nCultivos tropicales de estación cálida\n10–18 °C\n30–37 °C\n40–50 °C\n\n\n\n\n\n\n\n\n\n\nNo son valores universales\n\n\nLas temperaturas cardinales cambian según especie, cultivar, etapa fenológica, órgano evaluado, duración de exposición y disponibilidad de agua."
+  },
+  {
+    "objectID": "index.html#grados-día-o-tiempo-térmico",
+    "href": "index.html#grados-día-o-tiempo-térmico",
+    "title": "Régimen de temperatura",
+    "section": "11. Grados-día o tiempo térmico",
+    "text": "11. Grados-día o tiempo térmico\nLos grados-día representan la acumulación de calor útil para el desarrollo.\nLa idea central es que el desarrollo biológico depende más del calor acumulado que del número de días calendario.\nCálculo básico diario:\n\\[GD_i=\\max(T_{media,i}-T_b,\\ 0)\\]\nAcumulado:\n\\[GD_{acumulados}=\\sum_{i=1}^{n} GD_i\\]\n\n\n\n\n\n\n\nUso práctico\n\n\nPermiten estimar emergencia, floración, madurez, cosecha o estados de plagas."
+  },
+  {
+    "objectID": "index.html#ejemplo-de-grados-día",
+    "href": "index.html#ejemplo-de-grados-día",
+    "title": "Régimen de temperatura",
+    "section": "11.1 Ejemplo de grados-día",
+    "text": "11.1 Ejemplo de grados-día\nCultivo con \\(T_b=8.3\\ ^\\circ\\mathrm{C}\\).\n\n\n\nDía\n\\(T_{media}\\)\nCálculo\nGD diario\nGD acumulado\n\n\n\n\n1\n27 °C\n\\(27-8.3\\)\n18.7\n18.7\n\n\n2\n28 °C\n\\(28-8.3\\)\n19.7\n38.4\n\n\n3\n26 °C\n\\(26-8.3\\)\n17.7\n56.1\n\n\n\nSi el cultivo requiere 2 500 grados-día para madurez, se espera que llegue a esa fase cuando el acumulado alcance ese valor."
+  },
+  {
+    "objectID": "index.html#limitaciones-de-grados-día",
+    "href": "index.html#limitaciones-de-grados-día",
+    "title": "Régimen de temperatura",
+    "section": "11.2 Limitaciones de grados-día",
+    "text": "11.2 Limitaciones de grados-día\nEl método básico supone que:\n\nla tasa de desarrollo aumenta linealmente sobre la temperatura base;\nla temperatura del aire representa la temperatura del organismo;\nno hay exposición prolongada sobre la temperatura óptima;\nagua, nutrición y fotoperíodo no limitan fuertemente.\n\n\n\n\n\n\n\n\nInterpretación correcta\n\n\nLos grados-día ayudan a estimar el desarrollo, pero no garantizan rendimiento. Un cultivo puede acumular calor y aun así sufrir estrés hídrico, nutricional o térmico."
+  },
+  {
+    "objectID": "index.html#horas-frío",
+    "href": "index.html#horas-frío",
+    "title": "Régimen de temperatura",
+    "section": "12. Horas frío",
+    "text": "12. Horas frío\nLas especies frutales caducifolias requieren frío para salir adecuadamente del reposo.\nEl requerimiento depende de:\n\nespecie;\ncultivar;\nestado de las yemas;\npatrón térmico invernal;\ninteracción entre frío acumulado y calor posterior.\n\nModelos frecuentes:\n\nhoras bajo un umbral;\nmodelo de Utah;\nmodelo dinámico."
+  },
+  {
+    "objectID": "index.html#comparación-de-modelos-de-frío",
+    "href": "index.html#comparación-de-modelos-de-frío",
+    "title": "Régimen de temperatura",
+    "section": "12.1 Comparación de modelos de frío",
+    "text": "12.1 Comparación de modelos de frío\n\n\n\n\n\n\n\n\nModelo\nVentaja\nLimitación\n\n\n\n\nHoras frío\nFácil de calcular\nTrata todas las horas frías como equivalentes\n\n\nUtah\nConsidera eficiencia térmica\nPuede fallar en inviernos suaves con tardes cálidas\n\n\nDinámico\nMejor para climas variables\nMás complejo\n\n\n\n\n\n\n\n\n\n\nCuidado\n\n\nNo compares directamente horas frío, unidades Utah y porciones de frío. Cada modelo tiene su propia escala."
+  },
+  {
+    "objectID": "index.html#frío-insuficiente-consecuencias",
+    "href": "index.html#frío-insuficiente-consecuencias",
+    "title": "Régimen de temperatura",
+    "section": "12.2 Frío insuficiente: consecuencias",
+    "text": "12.2 Frío insuficiente: consecuencias\nCuando no se acumula suficiente frío pueden ocurrir:\n\nbrotación irregular;\nfloración desuniforme;\nbaja sincronización floral;\nreducción del cuajado;\nmenor rendimiento y calidad;\nmayor dificultad para programar labores.\n\n\n\n\n\n\n\n\nEjemplo práctico\n\n\nEn frutales de carozo, un invierno cálido puede causar floraciones largas y desordenadas. Eso complica polinización, raleo, aplicaciones y cosecha."
+  },
+  {
+    "objectID": "index.html#confort-térmico-y-estrés-animal",
+    "href": "index.html#confort-térmico-y-estrés-animal",
+    "title": "Régimen de temperatura",
+    "section": "13. Confort térmico y estrés animal",
+    "text": "13. Confort térmico y estrés animal\nEl confort térmico ocurre cuando el animal mantiene su temperatura corporal con mínimo esfuerzo de termorregulación.\nCuando aumenta la carga térmica, el animal puede responder con:\n\nbúsqueda de sombra;\nmayor consumo de agua;\nmenor consumo de alimento;\nmayor frecuencia respiratoria;\nsudoración;\nmenor actividad;\nreducción productiva."
+  },
+  {
+    "objectID": "index.html#índice-temperatura-humedad",
+    "href": "index.html#índice-temperatura-humedad",
+    "title": "Régimen de temperatura",
+    "section": "13.1 Índice temperatura-humedad",
+    "text": "13.1 Índice temperatura-humedad\nEl índice temperatura-humedad, conocido como THI o ITH, combina temperatura y humedad relativa.\nUna formulación usada en bovinos es:\n\\[THI=(1.8T+32)-(0.55-0.0055HR)(1.8T-26)\\]\nDonde:\n\n\\(T\\): temperatura del aire en °C;\n\\(HR\\): humedad relativa en %.\n\n\n\n\n\n\n\n\nNo usar solo el índice\n\n\nLa interpretación del THI depende de especie, raza, edad, producción, radiación, viento, sombra y aclimatación."
+  },
+  {
+    "objectID": "index.html#temperatura-estabilidad-y-contaminación",
+    "href": "index.html#temperatura-estabilidad-y-contaminación",
+    "title": "Régimen de temperatura",
+    "section": "14. Temperatura, estabilidad y contaminación",
+    "text": "14. Temperatura, estabilidad y contaminación\nLa dispersión de contaminantes depende de:\n\nestabilidad atmosférica;\nperfil vertical de temperatura;\nvelocidad y dirección del viento;\naltura de la capa de mezcla;\ntopografía;\ncaracterísticas de la fuente emisora.\n\nDurante una inversión térmica, la mezcla vertical se debilita y los contaminantes pueden quedar atrapados cerca de la superficie.\n\n\n\n\n\nflowchart LR\n    A[Superficie fría] --&gt; B[Capa de aire frío]\n    B --&gt; C[Capa de aire cálido \n    superior]\n    C --&gt; D[Menor mezcla \n    vertical]\n    D --&gt; E[Acumulación de \n    contaminantes]"
+  },
+  {
+    "objectID": "index.html#temperatura-y-cambio-climático",
+    "href": "index.html#temperatura-y-cambio-climático",
+    "title": "Régimen de temperatura",
+    "section": "15. Temperatura y cambio climático",
+    "text": "15. Temperatura y cambio climático\nEl calentamiento global aumenta la relevancia de la temperatura en la gestión agrícola.\nRiesgos agroambientales asociados:\n\nmás extremos cálidos;\ncambios en la estación de crecimiento;\nadelanto de fases fenológicas;\nmayor demanda evaporativa;\nestrés térmico en cultivos y ganado;\nmenor acumulación de frío;\ncambios en plagas y enfermedades;\nmayor riesgo de incendios.\n\n\n\n\n\n\n\n\nEl efecto no es uniforme\n\n\nEn ambientes fríos, un aumento de temperatura puede ampliar la estación de crecimiento. En zonas ya cálidas, puede reducir rendimiento, calidad y estabilidad productiva."
+  },
+  {
+    "objectID": "index.html#decisiones-de-adaptación",
+    "href": "index.html#decisiones-de-adaptación",
+    "title": "Régimen de temperatura",
+    "section": "15.1 Decisiones de adaptación",
+    "text": "15.1 Decisiones de adaptación\nLa información térmica ayuda a decidir:\n\nespecies y cultivares;\nfechas de siembra;\nmanejo de sombra y ventilación;\nelección de sitios por altitud y topografía;\najuste del riego;\nmonitoreo de grados-día y horas frío;\nalertas de heladas y olas de calor;\ndiseño de infraestructura agrícola."
+  },
+  {
+    "objectID": "index.html#integración-de-conceptos",
+    "href": "index.html#integración-de-conceptos",
+    "title": "Régimen de temperatura",
+    "section": "16. Integración de conceptos",
+    "text": "16. Integración de conceptos\n\n\n\n\n\nflowchart TD\n    A[Radiación y \n    balance de \n    energía] --&gt; B[Temperatura del aire \n    y del suelo]\n    B --&gt; C[Variación diaria]\n    B --&gt; D[Variación anual]\n    B --&gt; E[Variación con \n    la altura]\n    C --&gt; F[ATD]\n    D --&gt; G[ATA]\n    E --&gt; H[Gradiente e \n    inversiones]\n    B --&gt; I[Procesos \n    biológicos]\n    I --&gt; J[Temperaturas \n    cardinales]\n    I --&gt; K[Grados-día]\n    I --&gt; L[Horas frío]\n    I --&gt; M[Confort animal]\n    H --&gt; N[Heladas y \n    contaminación]"
+  },
+  {
+    "objectID": "index.html#preguntas-de-análisis",
+    "href": "index.html#preguntas-de-análisis",
+    "title": "Régimen de temperatura",
+    "section": "17. Preguntas de análisis",
+    "text": "17. Preguntas de análisis\n\n¿Por qué dos superficies con la misma radiación pueden tener temperaturas diferentes?\n¿Por qué una localidad costera suele tener menor amplitud térmica diaria?\n¿Por qué la mínima suele ocurrir cerca del amanecer?\n¿Por qué una depresión topográfica puede tener mayor riesgo de helada?\n¿Cómo afecta una inversión térmica a los cultivos y a la calidad del aire?\n¿Por qué más temperatura puede acelerar el ciclo sin aumentar rendimiento?\n¿Qué limitaciones tiene estimar cosecha solo con grados-día?\n¿Qué consecuencias tiene una acumulación insuficiente de frío?"
+  },
+  {
+    "objectID": "index.html#síntesis-final",
+    "href": "index.html#síntesis-final",
+    "title": "Régimen de temperatura",
+    "section": "17. Síntesis final",
+    "text": "17. Síntesis final\n\nLa temperatura describe el estado térmico; el calor es energía en transferencia.\nLa superficie calienta el aire mediante calor sensible y latente.\nLa temperatura cambia en el día, el año y con la altura.\nATD y ATA miden variaciones térmicas distintas.\nLas inversiones térmicas favorecen heladas y acumulación de contaminantes.\nLa temperatura del suelo regula germinación, raíces y microorganismos.\nTemperaturas cardinales, grados-día y horas frío conectan clima con desarrollo biológico.\nLa temperatura debe interpretarse junto con humedad, radiación, viento y agua disponible."
+  },
+  {
+    "objectID": "index.html#glosario-mínimo",
+    "href": "index.html#glosario-mínimo",
+    "title": "Régimen de temperatura",
+    "section": "18. Glosario mínimo",
+    "text": "18. Glosario mínimo\n\n\n\n\n\n\n\nTérmino\nDefinición\n\n\n\n\nTemperatura\nEstado térmico de un cuerpo.\n\n\nCalor\nEnergía transferida por diferencia térmica.\n\n\nATD\nDiferencia entre máxima y mínima diaria.\n\n\nATA\nDiferencia entre mes más cálido y más frío.\n\n\nGradiente altotérmico\nCambio de temperatura con altitud.\n\n\nInversión térmica\nCapa donde la temperatura aumenta con altura.\n\n\nGrados-día\nCalor acumulado sobre una temperatura base.\n\n\nHoras frío\nExposición a temperaturas bajas durante reposo.\n\n\nTHI / ITH\nÍndice de carga térmica por temperatura y humedad."
+  },
+  {
+    "objectID": "index.html#fuentes-y-lecturas-recomendadas",
+    "href": "index.html#fuentes-y-lecturas-recomendadas",
+    "title": "Régimen de temperatura",
+    "section": "19. Fuentes y lecturas recomendadas",
+    "text": "19. Fuentes y lecturas recomendadas\n\n\nPuche, M. Climatología Agroambiental. Clase 5: Temperatura. Universidad Central de Venezuela.\nOrganización Meteorológica Mundial. Temperatura del aire cerca de la superficie.\nFAO. Desarrollo de las plantas y tiempo térmico.\nIPCC. Sexto Informe de Evaluación, Informe de Síntesis.\nThom, E. C. (1959). The discomfort index. Weatherwise."
+  },
+  {
+    "objectID": "index.html#sesión-práctica",
+    "href": "index.html#sesión-práctica",
+    "title": "Régimen de temperatura",
+    "section": "Sesión práctica",
+    "text": "Sesión práctica\nTemperatura"
+  }
+]
